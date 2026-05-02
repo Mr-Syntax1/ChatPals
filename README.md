@@ -62,6 +62,17 @@ This project was built to explore:
 - Python 3.6 or higher
 - No external libraries required (uses only standard library)
 
+## 🧪 Run Everything on One Computer (For Testing)
+
+You don't need multiple computers or a network to test ChatPals! Everything can run on your **single laptop/PC**.
+
+or
+
+## Connect with a Friend on the Same Local Network (WiFi)
+
+Want to chat with your friend who is in the **same house, same coffee shop, or same office WiFi**? Follow this:
+
+
 ## 🚀 How to Run
 
 ### 1. Start the Server
