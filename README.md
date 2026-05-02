@@ -119,7 +119,7 @@ port_server = 8888
 
 To find the server's IP:
 
-- **windows:**: Run `ipconfig` in CMD, look for "IPv4 Address"
+- **windows:** Run `ipconfig` in CMD, look for "IPv4 Address"
 - **Linux:** Run `ip a` or `ifconfig`, look for "inet" (usually 192.168.x.x)
 - **Mac:** Run `ifconfig`, look for "inet" under en0 (usually 192.168.x.x)
 
