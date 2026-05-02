@@ -119,9 +119,9 @@ port_server = 8888
 
 To find the server's IP:
 
-Windows: Run ipconfig in CMD, look for "IPv4 Address"
-
-Linux/Mac: Run ifconfig or ip a, look for "inet"
+- **windows:**: Run `ipconfig` in CMD, look for "IPv4 Address"
+- **Linux:** Run `ip a` or `ifconfig`, look for "inet" (usually 192.168.x.x)
+- **Mac:** Run `ifconfig`, look for "inet" under en0 (usually 192.168.x.x)
 
 ### 4. Exit Chat
-Type close and press Enter.
+Type `close` and press Enter.
