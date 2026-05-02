@@ -4,7 +4,6 @@ A colorful real-time chat room built with Python sockets and threading. This is 
 
 ## 🎯 Project Status
 
-> **⚠️ This is a learning project, not a production-ready application**
 
 This project was built to explore:
 - Socket programming (TCP/IP)
