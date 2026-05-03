@@ -59,7 +59,7 @@ This project was built to explore:
 
 ## 📋 Prerequisites
 
-- Python 3.6 or higher
+- Python 3 or higher
 - No external libraries required (uses only standard library)
 
 ## 🧪 Run Everything on One Computer (For Testing)
